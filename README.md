@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Dr.ME</h1>
 <h3 align="center">I’m a student from Ukraine, currently studying Software Engineering at the College of Communication and Informatization. Passionate about coding, problem-solving, and building innovative projects. Always eager to learn and collaborate! 🚀</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/drme-bit/count.svg?"  />
-</div>
-
 - 🌱 I’m currently learning **Microsoft .NET framework and Rust lang**
 
 - 📫 How to reach me **vacheslavtkachik@gmail.com**
