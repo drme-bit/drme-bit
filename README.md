@@ -55,10 +55,16 @@ Backend & Infrastructure
 
 ## Status
 
-<div align="center" style="border-radius: 16px; border: 1px solid #23272A; display: flex;">
-    <img src="https://raw.githubusercontent.com/drme-bit/drme-bit/output/snake.svg" alt="Snake animation"  style="width: 70%;"/>
-    <img src="https://lanyard.cnrad.dev/api/389417490809225216?theme=dark&hideTimestamp=true&hideClips=true" alt="Discord Status"  style="width: 30%;"/>
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <img src="https://raw.githubusercontent.com/drme-bit/drme-bit/output/snake.svg" alt="Snake animation" />
+    </td>
+    <td width="30%">
+      <img src="https://lanyard.cnrad.dev/api/389417490809225216?theme=dark&hideTimestamp=true&hideClips=true" alt="Discord Status" />
+    </td>
+  </tr>
+</table>
 
 ---
 
