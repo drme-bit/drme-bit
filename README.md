@@ -25,7 +25,7 @@
 name: Vyacheslav Tkachyk
 from: Ukraine
 education: Software Engineering @ College of Communication and Informatization
-currently_learning: [".NET", "Rust"]
+currently_learning: ["SpringBoot", "Java"]
 building: ["Nexagon — game server monitoring", "BlackVoxel Studio — game infra & tools"]
 ```
 
