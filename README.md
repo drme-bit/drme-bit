@@ -56,7 +56,7 @@ IDEs i use
 
 Tools i use
 
-<img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma,notion,linux" /><img src="https://cdn.simpleicons.org/linear/5E6AD2" width="48" height="48" alt="Linear" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma,notion,linux" /> <img src="https://cdn.simpleicons.org/linear/5E6AD2" width="48" height="48" alt="Linear" />
 
 ---
 
