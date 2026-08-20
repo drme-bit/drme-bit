@@ -40,16 +40,24 @@ Freelance Roblox developer — server logic, trading systems, admin panels.
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=ts,rust,python,js,cs,cpp,c" />
+<img src="https://skillicons.dev/icons?i=ts,rust,python,js,cs,cpp,c,java" />
 
 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,threejs" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,html,css,threejs,tailwind" />
 
 Backend & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker,mysql,redis,linux,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,docker,k8s,mysql,redis,linux,git" />
 
+IDEs i use
+
+<img src="https://skillicons.dev/icons?i=webstorm,idea,rider,vscode">
+
+Tools i use
+
+<img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma,notion,linux" />
+<img src="https://cdn.simpleicons.org/linear/5E6AD2" width="48" height="48" alt="Linear" />
 
 ---
 
